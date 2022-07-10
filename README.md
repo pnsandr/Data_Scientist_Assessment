@@ -1,0 +1,2 @@
+# Data_Scientist_Assessment
+This repository contains the Assessment for Breast Cancer classifcation. The goal of the machine learning model is to be able to diffrentiate between malignant and benign tumors based on the tumor shape and its geometry. The publicly available breast cancer dataset included in the Python’s scikit-learn package is used. Files included : Data Scientist Assessment.ipynb (the code fot the assessment) and requirements.txt (all the libraries/dependencies for the above code).
